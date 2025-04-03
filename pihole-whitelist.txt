@@ -1,0 +1,98 @@
+#Windows uses this to verify connectivity to Internet
+www.msftncsi.com 
+www.msftconnecttest.com
+
+#Gmail
+googleapis.l.google.com
+
+#Youtube App for iOS/iPadOS
+www.googleapis.com 
+youtubei.googleapis.com
+oauthaccountmanager.googleapis.com
+
+#Youtube Buffer Issue
+ogads-pa.googleapis.com
+jnn-pa.googleapis.com
+
+#Google Keep
+reminders-pa.googleapis.com
+firestore.googleapis.com
+
+#Google Fonts
+gstaticadssl.l.google.com
+
+#Microsoft Web Pages (Outlook, Office365, Live, Microsoft.com...)
+outlook.office365.com 
+products.office.com 
+c.s-microsoft.com 
+i.s-microsoft.com 
+login.live.com 
+login.microsoftonline.com 
+
+#Microsoft Store (Windows Store)
+dl.delivery.mp.microsoft.com 
+geo-prod.do.dsp.mp.microsoft.com 
+displaycatalog.mp.microsoft.com
+
+#Xbox Live
+clientconfig.passport.net 
+#Xbox Live Achievements (confirmed by Microsoft)
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+
+#Xbox Live Messaging
+client-s.gateway.messenger.live.com
+
+#Full Xbox Functionality
+xbox.ipv6.microsoft.com 
+device.auth.xboxlive.com 
+title.mgt.xboxlive.com 
+xsts.auth.xboxlive.com 
+title.auth.xboxlive.com 
+ctldl.windowsupdate.com 
+attestation.xboxlive.com 
+xboxexperiencesprod.experimentation.xboxlive.com 
+xflight.xboxlive.com 
+cert.mgt.xboxlive.com 
+xkms.xboxlive.com 
+def-vef.xboxlive.com 
+notify.xboxlive.com 
+help.ui.xboxlive.com 
+licensing.xboxlive.com 
+eds.xboxlive.com 
+www.xboxlive.com 
+v10.vortex-win.data.microsoft.com 
+settings-win.data.microsoft.com
+
+#Apple ID
+appleid.apple.com
+
+#iOS Weather App
+gsp-ssl.ls.apple.com
+gsp-ssl.ls-apple.com.akadns.net
+
+#iOS/Apple
+captive.apple.com 
+gsp1.apple.com 
+www.apple.com 
+www.appleiphonecell.com
+
+#Spotify
+#for iOS
+spclient.wg.spotify.com 
+apresolve.spotify.com
+#for tv apps
+api-tv.spotify.com
+
+#NVIDIA GeForce Experience
+gfwsl.geforce.com
+
+#Reddit
+styles.redditmedia.com
+www.redditstatic.com
+reddit.map.fastly.net
+www.redditmedia.com
+reddit-uploaded-media.s3-accelerate.amazonaws.com
+thumbs.redditmedia.com
+redd.it
+reddit.com
